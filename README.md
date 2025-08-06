@@ -56,4 +56,30 @@ Clean Architecture
    ```bash
    cd WeatherMonitoringSystem
 
+    Technologies Used
+ C# 10 / .NET 9.0
+
+ Visual Studio Code / Visual Studio 2022+
+
+ Object-Oriented Programming (OOP)
+
+ Git & GitHub
+
+  Concepts Covered
+Software Design Patterns
+
+Modular Architecture
+
+Real-time Data Simulation
+
+Clean Code & Separation of Concerns
+
+Interface-based Programming
+
+ Author
+Inderpreet Kaur
+A00291274
+Mobile Application Development – MAPD
+
+
 
